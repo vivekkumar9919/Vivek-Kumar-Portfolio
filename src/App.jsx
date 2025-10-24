@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "./components/Navbar";
+import Navbar from "./sections/Navbar";
 import MatrixBackground from "./components/MatrixBackground";
 
 import Hero from "./sections/Hero";
