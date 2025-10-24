@@ -25,8 +25,9 @@ function Projects() {
                     </div>
 
                     <div class="project-links mt-3">
-                        <a href="https://github.com/yourusername/ai-agent-product-query" target="_blank">🔗 GitHub</a> |
-                        <a href="https://your-live-demo-url.com" target="_blank">🚀 Live Demo</a>
+                        <a href="https://github.com/vivekkumar9919/AI-search-agent" target="_blank">🔗 GitHub</a> |
+                        <a href="https://github.com/vivekkumar9919/smart-product-search-frontend" target="_blank">🔗 GitHub</a> 
+                        {/* <a href="https://your-live-demo-url.com" target="_blank">🚀 Live Demo</a> */}
                     </div>
 
                 </div>
@@ -48,8 +49,9 @@ function Projects() {
                         <span class="tech-tag">React</span>
                     </div>
                     <div class="project-links mt-3">
-                        <a href="https://github.com/yourusername/ai-agent-product-query" target="_blank">🔗 GitHub</a> |
-                        <a href="https://your-live-demo-url.com" target="_blank">🚀 Live Demo</a>
+                        <a href="https://github.com/vivekkumar9919/chat-application-backend" target="_blank">🔗 GitHub</a> |
+                        <a href="https://github.com/vivekkumar9919/chat-application-frontend" target="_blank">🔗 GitHub</a> 
+                        {/* <a href="https://your-live-demo-url.com" target="_blank">🚀 Live Demo</a> */}
                     </div>
                 </div>
             </div>
@@ -68,8 +70,8 @@ function Projects() {
                         <span class="tech-tag">React</span>
                     </div>
                     <div class="project-links mt-3">
-                        <a href="https://github.com/yourusername/ai-agent-product-query" target="_blank">🔗 GitHub</a> |
-                        <a href="https://your-live-demo-url.com" target="_blank">🚀 Live Demo</a>
+                        <a href="https://github.com/vivekkumar9919/Coding-Profile-manager" target="_blank">🔗 GitHub</a> |
+                        <a href="https://coding-profile-manager.vercel.app/" target="_blank">🚀 Live Demo</a>
                     </div>
                 </div>
             </div>
